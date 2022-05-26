@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @C0FF33JH
 - 👀 I’m interested in learning Computer Science
-- 🌱 I’m currently learning via the CS50 course
+- 🌱 I’m currently learning via Codecademy and FreeCodeCamp
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
